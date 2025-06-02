@@ -4,6 +4,13 @@ This is a simple Python project that uses **TextBlob** to detect the sentiment o
 
 ---
 
+## 🎓 Internship Info
+
+> ✅ This is my **first project** for **CodeClause** as an **AI Intern**.  
+> It demonstrates basic Natural Language Processing (NLP) skills using Python.
+
+---
+
 ## 📁 Files Included
 
 - `Sentiment Analysis.py` — Main Python script  
