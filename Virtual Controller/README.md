@@ -41,7 +41,7 @@ The Cam-X Controller is an innovative virtual controller system that transforms 
 ### Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/uchiha_byte/cam-x-controller.git
+   git clone https://github.com/Uchiha_byte/cam-x-controller.git
    cd Virtual Controller
    ```
 
@@ -120,7 +120,6 @@ We welcome contributions! Please feel free to submit pull requests, create issue
 
 ## Credits
 - **Developer**: Ans Ahmed Khan
-- **Project Guide**: Code Clause
 - **Libraries**: OpenCV, MediaPipe, Streamlit teams
 
 ## License
